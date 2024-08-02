@@ -74,7 +74,9 @@ info: Microsoft.Hosting.Lifetime[0]
 > dotnet dev-certs https --trust
 > ```
 > 
-> You will get a popup verifying that you want to trust the certificate on your machine. Click "Yes".
+> You will get a popup verifying that you want to trust the certificate on your machine. Click "Yes".  
+>
+> **You must close all open browser windows for this setting to take effect. For example, if you have both Edge and Chrome open, you must close all windows in both browsers.**
 > 
 > *Note: the trust step works on Windows and macOS only. Check the Microsoft docs for "dotnet dev-certs" for more information on using this on Linux.*  
 
