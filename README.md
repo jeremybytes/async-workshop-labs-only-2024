@@ -7,6 +7,8 @@ For a full description of the workshop, please refer to the original event link.
 
 * Visual Studio LIVE! Microsoft HQ (August 2024)  
 [https://github.com/jeremybytes/vslive2024-microsofthq](https://github.com/jeremybytes/vslive2024-microsofthq)
+* TechBash (Sepetember 2024)  
+[https://github.com/jeremybytes/async-workshop-2024](https://github.com/jeremybytes/async-workshop-2024)
 
 ## Pre-Requisites:  
 
